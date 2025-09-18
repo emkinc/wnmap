@@ -14,7 +14,7 @@
 - **Self-setup to PATH**: `wnmap setup`
 - **50+ commands** across TCP/UDP scans, HTTP/TLS, service probes, discovery, DNS/routing, and utilities
 - **Concise reports** (text by default, optional `--json`)
-- No ASCII banners — just **answers and good quality output**
+
 
 ---
 
